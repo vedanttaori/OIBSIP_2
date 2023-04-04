@@ -1,2 +1,2 @@
-# OIBSIP_2
+# OIBSIP_Task2
 Number Guessing Game develoepd using Java Language 
